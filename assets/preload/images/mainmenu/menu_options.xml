@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_options.png">
+<SubTexture name="options basic0000" x="0" y="0" width="426" height="164" frameX="0" frameY="0" frameWidth="426" frameHeight="164" />
+<SubTexture name="options basic0001" x="426" y="0" width="426" height="164" frameX="0" frameY="0" frameWidth="426" frameHeight="164" />
+<SubTexture name="options basic0002" x="852" y="0" width="426" height="164" frameX="0" frameY="0" frameWidth="426" frameHeight="164" />
+<SubTexture name="options white0000" x="1278" y="0" width="439" height="176" frameX="0" frameY="0" frameWidth="439" frameHeight="176" />
+<SubTexture name="options white0001" x="0" y="176" width="439" height="176" frameX="0" frameY="0" frameWidth="439" frameHeight="176" />
+<SubTexture name="options white0002" x="439" y="176" width="439" height="176" frameX="0" frameY="0" frameWidth="439" frameHeight="176" />
+</TextureAtlas>

@@ -1,0 +1,43 @@
+{
+	"storyName": "Ajax! FT, Ennway",
+	"hideFreeplay": false,
+	"weekBackground": "ajax",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cracked",
+			"ajax",
+			[
+				160,
+				219,
+				255
+			]
+		],
+		[
+			"Malware",
+			"ajax",
+			[
+				160,
+				219,
+				255
+			]
+		],
+		[
+			"RE-FORMAT",
+			"ajax",
+			[
+				160,
+				219,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Ajax"
+}
